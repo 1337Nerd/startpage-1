@@ -1,4 +1,4 @@
-document.body.style.background = '#110D0A';
+document.body.style.background = '#362221';
 //document.body.style.backgroundImage = 'url(https://unsplash.it/' + window.innerWidth + '/' + window.innerHeight + '/?random&blur)';
 
 var searchbox = document.getElementById('search');
